@@ -1,2 +1,3 @@
-# erp-system
-This is my final year project
+# README
+
+This is a project about ERP System of the college.
